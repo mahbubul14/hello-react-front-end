@@ -2,10 +2,6 @@
 This app consists of a trial of seperating a back end build with Rails and a front end build with React, Feel free to try it!
 
 
-## Api
-
-[Link to Api endpoint created with Rails](https://random-greeting-api.herokuapp.com/api/v1/messages)
-
 ## Built With
 
 - React
@@ -18,7 +14,7 @@ This app consists of a trial of seperating a back end build with Rails and a fro
 **and Stylelint installed on your local environment**
 
 - **To get a local copy of the repository please run the following commands on your terminal:**
-- **$ git clone https://github.com/hello-react-front-end**
+- **$ git clone https://github.com/mahbubul14/hello-react-front-end/**
 - **$ cd ...**
 - **$ git checkout ...**
 - **$ run npm install to couple all dependencies**
@@ -48,10 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Author
 
-👤 **Hichami Houssam**
+👤 **Mahbub Alam**
 
-- GitHub: [@redwing555](https://github.com/redwing555)
-- LinkedIn: [Houssam Hichami](https://www.linkedin.com/in/houssam-hichami/)
+- GitHub: [@mahbubul14](https://github.com/mahbubul14)
+- Twitter: [@twitterhandle](https://twitter.com/mahbubul_14)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahbubul14/)
 
 ## 🤝 Contributing
 
